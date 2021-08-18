@@ -6,7 +6,7 @@ const Hero = () => {
     <SHeroSection>
       <SHero>
         <STitle>Hello,</STitle>
-        <STitle>&nbsp;I'm Shintaro</STitle>
+        <STitle>&nbsp;I'm ASDFGHJ</STitle>
         <SSubtitle>A Front-end</SSubtitle>
         <SSubtitle>&nbsp;Web Developer</SSubtitle>
       </SHero>
