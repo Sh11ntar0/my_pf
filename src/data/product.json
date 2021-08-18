@@ -1,0 +1,43 @@
+{
+	"data": [
+		{
+			"img": "/img/soso.png",
+			"title": "So-So Inc. Website",
+			"alt": "So-So Inc. Website",
+			"explain": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia quo praesentium iure, cupiditate dolorem eveniet voluptas quidem error dolorum nobis aliquid non. ",
+			"website": "https://keen-lalande-482ee4.netlify.app/",
+			"github": "https://github.com/Sh11ntar0/musu"
+
+
+		},
+		{
+			"img": "/img/beerWeather.png",
+			"title": "Beer Weather",
+			"alt": "Beer Weather",
+			"explain": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia quo praesentium iure, cupiditate dolorem.",
+			"website": "https://keen-lalande-482ee4.netlify.app/",
+			"github": "https://github.com/Sh11ntar0/musu"
+
+
+		},
+		{
+			"img": "/img/skincare.png",
+			"title": "Shin skincare Website",
+			"alt": "Shin Skincare",
+			"explain": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia quo praesentium iure, cupiditate dolorem.",
+			"website": "https://amazing-snyder-c48ffb.netlify.app/",
+			"github": "https://github.com/Sh11ntar0/skincare-H"
+
+		},
+		{
+			"img": "/img/fav-video.png",
+			"title": "FAV-VIDEO",
+			"alt": "FAV-VIDEO",
+			"explain": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia quo praesentium iure, cupiditate dolorem.",
+			"website": "https://favvideo.netlify.app/",
+			"github": "https://github.com/Sh11ntar0/FAV_VIDEOS"
+
+		}
+
+	]
+}
