@@ -10,8 +10,8 @@ const About = () => {
         </SAboutFigure>
 
         <SAboutName>Shintaro Okamoto</SAboutName>
-        <SAboutText>I’m a Front-end Web Developer based in Vancouver, BC.
-        I'm passionate about creating web sites that look great, and keep improving my newly-learned skills!
+        <SAboutText>I’m an innovative Front-end Web Developer with hands-on skills in a wide range of software, tools, and programming languages.<br />
+        I'm passionate about bringing ideas to life, learning new technologies, and working with dedicated teams!
         </SAboutText>
 
       </SAbout>
@@ -112,7 +112,7 @@ const SAboutName = styled.h2`
 const SAboutText = styled.p`
   font-size: 1.5rem;
 	font-weight: 300;
-	line-height: 2rem;
+	line-height: 2.5rem;
 	grid-area: text;
   margin: 1rem 0;
 

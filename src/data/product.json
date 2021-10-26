@@ -1,43 +1,28 @@
 {
-	"data": [
-		{
-			"img": "/img/soso.png",
-			"title": "So-So Inc. Website",
-			"alt": "So-So Inc. Website",
-			"explain": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia quo praesentium iure, cupiditate dolorem eveniet voluptas quidem error dolorum nobis aliquid non. ",
-			"website": "https://keen-lalande-482ee4.netlify.app/",
-			"github": "https://github.com/Sh11ntar0/musu"
-
-
-		},
-		{
-			"img": "/img/beerWeather.png",
-			"title": "Beer Weather",
-			"alt": "Beer Weather",
-			"explain": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia quo praesentium iure, cupiditate dolorem.",
-			"website": "https://keen-lalande-482ee4.netlify.app/",
-			"github": "https://github.com/Sh11ntar0/musu"
-
-
-		},
-		{
-			"img": "/img/skincare.png",
-			"title": "Shin skincare Website",
-			"alt": "Shin Skincare",
-			"explain": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia quo praesentium iure, cupiditate dolorem.",
-			"website": "https://amazing-snyder-c48ffb.netlify.app/",
-			"github": "https://github.com/Sh11ntar0/skincare-H"
-
-		},
-		{
-			"img": "/img/fav-video.png",
-			"title": "FAV-VIDEO",
-			"alt": "FAV-VIDEO",
-			"explain": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia quo praesentium iure, cupiditate dolorem.",
-			"website": "https://favvideo.netlify.app/",
-			"github": "https://github.com/Sh11ntar0/FAV_VIDEOS"
-
-		}
-
-	]
+  "data": [
+    {
+      "img": "/img/soso.png",
+      "title": "So-So Inc. Website",
+      "alt": "So-So Inc. Website",
+      "explain": "An official website for a traditional Japanese craft company, So-so. Technical Specifications: React, CSS, Firebase, Python, AWS",
+      "website": "https://keen-lalande-482ee4.netlify.app/",
+      "github": "https://github.com/Sh11ntar0/musu"
+    },
+    {
+      "img": "/img/beerWeather.png",
+      "title": "Beer Weather",
+      "alt": "Beer Weather",
+      "explain": "A Weather App that recommends users a suitable beer depends on the weather. Technical Specifications: React.js, Material-UI, Node.js, PostgreSQL",
+      "website": "https://keen-lalande-482ee4.netlify.app/",
+      "github": "https://github.com/kojiokajima/beer-weather"
+    },
+    {
+      "img": "/img/my_furniture.png",
+      "title": "My Furniture",
+      "alt": "My Furniture",
+      "explain": "An e-commerce website where consumers are able to buy their favorite furniture. Technical Specifications: React.js, Material-UI, Commerce.js, Stripe",
+      "website": "https://angry-agnesi-b8c214.netlify.app/",
+      "github": "https://github.com/Sh11ntar0/e-commerce"
+    }
+  ]
 }
