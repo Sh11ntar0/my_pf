@@ -89,8 +89,6 @@ const SAboutImg = styled.img`
   object-fit:contain;
 `
 
-
-
 const SAboutName = styled.h2`
   font-size: 2rem;
   font-weight: 600;
@@ -122,9 +120,5 @@ const SAboutText = styled.p`
     margin: 2rem 0 ;
   }
 `;
-
-
-
-
 
 export default About
