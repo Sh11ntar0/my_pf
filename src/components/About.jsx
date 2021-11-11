@@ -121,5 +121,4 @@ const SAboutText = styled.p`
   }
 `;
 
-
 export default About
