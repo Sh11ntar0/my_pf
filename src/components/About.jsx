@@ -119,6 +119,5 @@ const SAboutText = styled.p`
     width:100%;
     margin: 2rem 0 ;
   }
-
 `;
 export default About
