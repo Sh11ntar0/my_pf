@@ -120,4 +120,5 @@ const SAboutText = styled.p`
     margin: 2rem 0 ;
   }
 `;
+
 export default About
